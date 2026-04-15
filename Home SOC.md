@@ -17,7 +17,7 @@ Topics covered:
 
 The following is the network architecture that we are trying to create
 
-![[Pasted image 20260414160054.png]]
+<img width="955" height="537" alt="image" src="https://github.com/user-attachments/assets/1d7d0d63-f90c-4346-bf0e-5ad6c13c3ec3" />
 
 
 ### Creating an Azure subscription and setting up a VM
