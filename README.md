@@ -1,4 +1,3 @@
-[Home SOC.md](https://github.com/user-attachments/files/26763590/Home.SOC.md)
 # Azure VM Honeypot for attack map creation
 
 ### Goal
