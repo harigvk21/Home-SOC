@@ -55,6 +55,7 @@ Since, we want this machine to act as a honeypot and be open to the public, henc
 
 Step 4: We will access our virtual machine using the RDP protocol and disable all firewall rules so that the machine can be accessed from anywhere on the internet.
 We will use the run command wf.msc, open the windows firewall console, and turn off the "firewall state" for all the three profiles : Domain, Public, Private
+
 <img width="510" height="507" alt="image" src="https://github.com/user-attachments/assets/abfc3c74-1c2a-4eae-90d3-d704a5b787cd" />
 
 Once turned off, the updated rules in the console looks like the following
