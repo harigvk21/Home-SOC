@@ -1,5 +1,5 @@
 
-# Azure VM Honeypot for attack map creation
+# Azure VM Honeypot for log analysis using Sentinel
 
 ### Goal
 It is a great project for cybersecurity beginners and professionals looking to practice log analysis, threat detection, and SOC operations in a real-world cloud environment.
