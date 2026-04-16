@@ -57,6 +57,7 @@ Step 4: We will access our virtual machine using the RDP protocol and disable al
 We will use the run command wf.msc, open the windows firewall console, and turn off the "firewall state" for all the three profiles : Domain, Public, Private
 
 Once turned off, the updated rules in the console looks like the following
+
 <img width="381" height="205" alt="image" src="https://github.com/user-attachments/assets/40cabc12-b3af-4b9f-9b0a-0b787e892a29" />
 
 Step 5: Here we are using our local host to see if we able to connect to our virtual machine that we have just opened to the entire internet.
